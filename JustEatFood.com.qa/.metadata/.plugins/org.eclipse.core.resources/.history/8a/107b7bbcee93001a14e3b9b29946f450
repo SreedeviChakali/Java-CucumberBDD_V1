@@ -1,0 +1,26 @@
+package Runner;
+
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
+import org.junit.runner.RunWith;
+
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+
+
+@RunWith(Cucumber.class)
+@CucumberOptions(
+features="src\\test\\resources\\Features",
+glue="StepDefinitions",
+plugin = {"pretty", "html:target/cucumber"},
+dryRun = false,
+strict = true,
+monochrome = true
+//format=("pretty"'html:test-output')
+)
+public class MyRunner {
+
+
+}
+

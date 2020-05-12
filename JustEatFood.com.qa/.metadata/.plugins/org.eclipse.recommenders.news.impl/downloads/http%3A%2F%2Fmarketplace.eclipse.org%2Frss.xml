@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>SQL DAL Maker</title>
+    <link>http://marketplace.eclipse.org/content/sql-dal-maker</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sqldalmaker_24.png&quot; width=&quot;24&quot; height=&quot;24&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2020-05-10 02:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22.%22&quot;&gt;.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-08-02 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pmisingnameeok/listings&quot; title=&quot;panedrone Mising name&quot;&gt;panedrone Mising name&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SQL DAL Maker is a generator of DTO and DAO classes to access relational databases. Target programming languages: PHP, Java, C++, Python, Ruby. To generate the class, you declare it in XML meta-program.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/panedrone/sqldalmaker&quot; rel=&quot;nofollow&quot;&gt;https://github.com/panedrone/sqldalmaker&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 02 Aug 2011 22:05:21 +0000</pubDate>
+ <dc:creator>pmisingnameeok</dc:creator>
+ <guid isPermaLink="false">97312 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sql-dal-maker#comments</comments>
+  </item>
+  <item>
+    <title>Draw2d Preview</title>
+    <link>http://marketplace.eclipse.org/content/draw2d-preview</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-05-09 17:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22PetalsLink%22&quot;&gt;PetalsLink&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-11-15 09:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mistria/listings&quot; title=&quot;Mickael Istria&quot;&gt;Mickael Istria&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This small plugin is just an entry in the pop-up menu for classes that allow you to see a preview of a Draw2d class while you are editing it. I saves you a lot of time when you are developping features: no more need to start a runtime platform to see the effect of your modifications. It is planned to be contributed as the first component of a &quot;Tooling&quot; subproject for Draw2d.  The project is currently &lt;a href=&quot;https://github.com/mickaelistria/Draw2d-Preview&quot; rel=&quot;nofollow&quot;&gt;hosted at GitHub&lt;/a&gt; &lt;a href=&quot;https://github.com/mickaelistria/Draw2d-Preview#fork_box&quot; rel=&quot;nofollow&quot;&gt;&quot;Fork me, I&#039;m famous&quot;&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 15 Nov 2011 14:03:40 +0000</pubDate>
+ <dc:creator>mistria</dc:creator>
+ <guid isPermaLink="false">153063 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/draw2d-preview#comments</comments>
+  </item>
+  <item>
+    <title>Emacs+ </title>
+    <link>http://marketplace.eclipse.org/content/emacs</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/BlueLogo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-05-08 20:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Mark%20Feber%22&quot;&gt;Mark Feber&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2009-03-09 17:08&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mfeber/listings&quot; title=&quot;Mark Feber&quot;&gt;Mark Feber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Emacs+ [4.3.4]- Eclipse Extensions for Emacs Expatriates - provides an enhanced Emacs-like experience in the Eclipse text editors. Includes:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Keyboard Macros (including name, bind, save, load and auto-loading&lt;/li&gt;
+&lt;li&gt;M-x command execution&lt;/li&gt;
+&lt;li&gt;C-u universal-argument&lt;/li&gt;
+&lt;li&gt;Repeat command&lt;/li&gt;
+&lt;li&gt;C-x b, C-x 4 b, C-x 5 b with completion, search and buffer list&lt;/li&gt;
+&lt;li&gt;Emacs style point/mark selection with both global and buffer-local mark rings&lt;/li&gt;
+&lt;li&gt;Emacs style search and query/replace with regular expressions&lt;/li&gt;
+&lt;li&gt;A kill ring for deleted text&lt;/li&gt;
+&lt;li&gt;Digit argument support M-1, M-2 ... C-M-1, C-M-2 ..., etc.&lt;/li&gt;
+&lt;li&gt;Balanced expression (s-expression) commands&lt;/li&gt;
+&lt;li&gt;Split editor windows (C-x 2, C-x 3, C-x {, C-x }, C-x 4 .)&lt;/li&gt;
+&lt;li&gt;Frame handling (C-x 5 2, C-x 5 1, C-x 5 0, C-x 5 o)&lt;/li&gt;
+&lt;li&gt;Rectangle Commands&lt;/li&gt;
+&lt;li&gt;Register Commands&lt;/li&gt;
+&lt;li&gt;Tags-like searching&lt;/li&gt;
+&lt;li&gt;Transposition of characters, words, lines, paragraphs and s-expressions&lt;/li&gt;
+&lt;li&gt;Line and character commands&lt;/li&gt;
+&lt;li&gt;Space and blank line handling&lt;/li&gt;
+&lt;li&gt;Case conversion commands&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;An optional feature provides additional bindings for:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Gnu-style help commands&lt;/li&gt;
+&lt;li&gt;Gnu-style shift selection&lt;/li&gt;
+&lt;li&gt;Gnu-style GUD bindings&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MulgaSoft/e4macs/issues?labels=enhancement&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Feature requests&lt;/a&gt; and &lt;a href=&quot;https://github.com/MulgaSoft/e4macs/issues?labels=bug&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;defect reports&lt;/a&gt; made in the Reviews section are unlikely to be noticed. Submit them &lt;a href=&quot;https://github.com/MulgaSoft/e4macs/issues&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;. A forum for discussion can be found at &lt;a href=&quot;http://groups.google.com/group/emacsplus/topics&quot; rel=&quot;nofollow&quot;&gt;Emacs+ discussion&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=Y9H4QH94S45VY&amp;amp;lc=US&amp;amp;item_name=Emacs%2b&amp;amp;currency_code=USD&amp;amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted&quot; rel=&quot;nofollow&quot;&gt;Donate here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 09 Mar 2009 21:08:06 +0000</pubDate>
+ <dc:creator>mfeber</dc:creator>
+ <guid isPermaLink="false">886 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/emacs#comments</comments>
+  </item>
+  <item>
+    <title>/n software 3-D Secure Library</title>
+    <link>http://marketplace.eclipse.org/content/n-software-3-d-secure-library</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/3-d%20secure.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-05-08 10:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-05-07 15:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Irida Haznedari&quot;&gt;Irida Haznedari&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A powerful development library that allows easy integration of any 3-D Secure 2.2, 2.1 or 1.0.2 program, including Visa 3-D Secure, American Express SafeKey, Discover ProtectBuy, MasterCard Identify Check, and J/Secure. Add 3-D Secure capabilities into online shopping carts, websites, and merchant systems. /n software 3-D Secure is offered in a Java edition that provides seamless integration with popular development environments like Eclipse.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/in/3dsecure/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/3dsecure/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3DS Server and Mobile SDK Libraries&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;3-D Secure 2.2 is an authentication protocol defined by EMVCo and has been designed for modern customer environments, including browsers and mobile devices. The refined customer experience reduces friction during checkout and bolsters fraud protection by analyzing additional customer data when authenticating cardholders.&lt;/p&gt;
+&lt;p&gt;/n software 3-D Secure continues to support 3-D Secure 1.0.2, a standard used worldwide to reduce fraud by verifying purchaser identity during online transactions in programs implemented by Visa, MasterCard, American Express, Discover, and JCB. Implementing 3-D Secure reduces disputed transactions as well as chargebacks and their resulting costs.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;3-D Secure 2.2 and 2.1 support.&lt;/li&gt;
+&lt;li&gt;Reduce online fraud and chargebacks.&lt;/li&gt;
+&lt;li&gt;NO PER-TRANSACTION FEES&lt;/li&gt;
+&lt;li&gt;Visa, MasterCard, American Express SafeKey, Discover Protect Buy, &amp;amp; JCB certified.&lt;/li&gt;
+&lt;li&gt;Sample applications and tutorials make 3-D Secure implementation fast and easy.&lt;/li&gt;
+&lt;li&gt;One of the first 3D-Secure solutions (market-tested since 2002).&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/in/3dsecure/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/3dsecure/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/in/3dsecure/order.aspx/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/3dsecure/order.aspx/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 07 May 2020 19:42:49 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">5097791 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/n-software-3-d-secure-library#comments</comments>
+  </item>
+  <item>
+    <title>API Integrator</title>
+    <link>http://marketplace.eclipse.org/content/api-integrator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/api%20integrator.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-05-08 10:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-05-07 14:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Irida Haznedari&quot;&gt;Irida Haznedari&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A combination hosted service and .NET component that provides an easy way to integrate your applications with REST/XML-based Web APIs using automatically generated wrapper code and a drop-in client component. API Integrator is offered in a Java edition that provides seamless integration with popular development environments like Eclipse.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/in/api/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/api/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Integrate REST/XML-Based Web APIs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;API Integrator gives you a very easy way to integrate REST/XML Web APIs into your applications. The process is simple. You provide our hosted Code Generator with an OpenAPI/Swagger definition and it will return wrapper code that you use with the APIClient component to perform all request preparation, secure transmission, and response parsing.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/in/api/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/api/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the Beta at &lt;a href=&quot;https://www.nsoftware.com/in/api/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/api/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 07 May 2020 18:53:33 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">5097771 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/api-integrator#comments</comments>
+  </item>
+  <item>
+    <title>IPWorks OFX</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-ofx</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ipworks%20ofx.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-05-08 10:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-05-07 14:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Irida Haznedari&quot;&gt;Irida Haznedari&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Build fully-integrated solutions for retrieving live financial data from banks, credit card, and investment companies. IPWorks OFX is a powerful library of components for Open Financial Exchange (OFX) client integration. IPWorks OFX is offered in a Java edition that provides seamless integration with popular development environments like Eclipse.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/in/ebank/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/ebank/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Financial Account Integration Components&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IPWorks OFX facilitates the process of accessing financial data and services from bank, credit card, and investment company accounts. The components provide an easy to use interface for accessing financial transaction information.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Support for all major schema standard (BizTalk, SEF, Bots, Altova, and more.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/in/ebank/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/ebank/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/in/ebank/order.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/ebank/order.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 07 May 2020 18:37:36 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">5097760 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-ofx#comments</comments>
+  </item>
+  <item>
+    <title>Groovy Development Tools</title>
+    <link>http://marketplace.eclipse.org/content/groovy-development-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/groovy-logo-medium.png&quot; width=&quot;110&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-05-08 10:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Pivotal%22&quot;&gt;Pivotal&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2012-07-04 13:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/aclement/listings&quot; title=&quot;Andrew Clement&quot;&gt;Andrew Clement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Groovy Development Tools (GDT) provides Eclipse and Maven (m2e) support for the &lt;a href=&quot;http://groovy-lang.org&quot; rel=&quot;nofollow&quot;&gt;Apache Groovy&lt;/a&gt; programming language. GDT adds full-featured IDE support including editors, wizards, content assist, debugging, refactoring and searching.&lt;/p&gt;
+&lt;p&gt;The GDT requires the &lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-java-development-tools-0&quot; rel=&quot;nofollow&quot;&gt;Eclipse Java Development Tools&lt;/a&gt; (JDT) as it builds upon Java/JVM support, including Java interoperability (bi-directional dependencies via joint compilation). If your Eclipse flavor does not include JDT, you must install it first.&lt;/p&gt;
+&lt;p&gt;GDT does not provide any direct support for &lt;a href=&quot;http://grails.org&quot; rel=&quot;nofollow&quot;&gt;Grails&lt;/a&gt;. If you want Grails tooling, then please consider &lt;a href=&quot;https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse&quot; rel=&quot;nofollow&quot;&gt;Groovy-Grails Tools Suite&lt;/a&gt; or &lt;a href=&quot;https://github.com/spring-projects/grails-ide&quot; rel=&quot;nofollow&quot;&gt;spring-projects/grails-ide&lt;/a&gt; for your Grails projects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Jul 2012 17:05:41 +0000</pubDate>
+ <dc:creator>aclement</dc:creator>
+ <guid isPermaLink="false">321859 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/groovy-development-tools#comments</comments>
+  </item>
+  <item>
+    <title>Codewind </title>
+    <link>http://marketplace.eclipse.org/content/codewind</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codewind_blue_2000px.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2020-05-08 10:08&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2019-05-16 13:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jkim/listings&quot; title=&quot;Joseph Kim&quot;&gt;Joseph Kim&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Codewind for Eclipse&lt;/h2&gt;
+&lt;p&gt;Codewind for Eclipse provides tools to help build cloud-native, containerized applications from Eclipse, regardless of which runtime or language you use. Rapidly create an application from a template project and launch, update, test, and debug in Docker containers on the desktop.&lt;/p&gt;
+&lt;p&gt;For more information, see &lt;a href=&quot;https://www.eclipse.org/codewind/&quot; rel=&quot;nofollow&quot;&gt;https://www.eclipse.org/codewind/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why use Codewind?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Get started with templates or samples that you can use to quickly create and deploy applications that run in containers.&lt;/li&gt;
+&lt;li&gt;Create containerized applications in languages that you&#039;re already familiar with. Codewind supports popular runtimes.&lt;/li&gt;
+&lt;li&gt;Pull in your existing applications and use Codewind to help get them cloud ready.&lt;/li&gt;
+&lt;li&gt;See code changes reflected in your containerized application almost instantaneously. The Codewind advanced inner loop manages your application updates efficiently.&lt;/li&gt;
+&lt;li&gt;Develop in containers without feeling like you&#039;re developing in containers. Development flow within the IDE feels the same as traditional application development.&lt;/li&gt;
+&lt;li&gt;Without leaving the comfort of your local IDE, iteratively develop on Kubernetes and interact with Kubernetes resources.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Create new containerized projects or add existing ones.&lt;/li&gt;
+&lt;li&gt;View your containerized projects, including the application and build status.&lt;/li&gt;
+&lt;li&gt;Debug Microprofile/Java EE, Node.js, and Spring applications.&lt;/li&gt;
+&lt;li&gt;Access application, build, and container logs in the Console view.&lt;/li&gt;
+&lt;li&gt;See validation errors in the Problems view.&lt;/li&gt;
+&lt;li&gt;Open a shell session into an application container.&lt;/li&gt;
+&lt;li&gt;Toggle the project auto build setting and manually initiate project builds.&lt;/li&gt;
+&lt;li&gt;Open your application or the application monitor in a browser.&lt;/li&gt;
+&lt;li&gt;Develop your code locally and build and run it remotely and securely in the cloud.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Getting started with Codewind&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For more information, see &lt;a href=&quot;https://www.eclipse.org/codewind/mdteclipsegettingstarted.html&quot; rel=&quot;nofollow&quot;&gt;https://www.eclipse.org/codewind/mdteclipsegettingstarted.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contributing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Submit issues and contributions:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Submitting issues: &lt;a href=&quot;https://github.com/eclipse/codewind/issues&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eclipse/codewind/issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Contributing: &lt;a href=&quot;https://github.com/eclipse/codewind-eclipse/blob/master/CONTRIBUTING.md&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eclipse/codewind-eclipse/blob/master/CONTRIBUTING.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Developing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To develop and debug Codewind for Eclipse, see &lt;a href=&quot;https://github.com/eclipse/codewind-eclipse/blob/master/README.md#developing-codewind-for-eclipse&quot; rel=&quot;nofollow&quot;&gt;https://github.com/eclipse/codewind-eclipse/blob/master/README.md#develo...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 16 May 2019 17:09:11 +0000</pubDate>
+ <dc:creator>jkim</dc:creator>
+ <guid isPermaLink="false">4638524 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/codewind#comments</comments>
+  </item>
+  <item>
+    <title>IPWorks (+SSL)</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-ssl</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ipworks%20SSL%20image.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-05-07 15:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 09:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Irida Haznedari&quot;&gt;Irida Haznedari&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;IPWorks is a comprehensive framework for Internet development and is the core building block for most /n software products. IPWorks eliminates the complexity of Internet development, providing programmable, SSL-enabled components that facilitate tasks such as ensuring security, sending email, transferring files, managing networks, browsing the Web, consuming Web Services, etc. IPWorks is offered in a Java edition that provides seamless integration with popular development environments like Eclipse.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/ipworks/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;A comprehensive suite of tools covering all major Internet technologies.  &lt;/li&gt;
+&lt;li&gt;Small and lightweight components with no dependencies on external libraries.&lt;/li&gt;
+&lt;li&gt;Secure data communications using up to 256-bit strong SSL encryption and digital certificates.&lt;/li&gt;
+&lt;li&gt;Authenticate and encrypt/decrypt data sent and received using TLS 1.3, TLS 1.2, or TLS 1.1 (SSL2 and SSL3 also supported). &lt;/li&gt;
+&lt;li&gt;Supports both client-side and server-side authentication. &lt;/li&gt;
+&lt;li&gt;Full control over the SSL authentication process allows you to accept or reject certificates based certificate parameters. &lt;/li&gt;
+&lt;li&gt;FIPS 140-2 compliant cryptography (Windows only).&lt;/li&gt;
+&lt;li&gt;Secure server component is also included. Easily build SSL-enabled FTP servers, Web servers, or custom server solutions. &lt;/li&gt;
+&lt;li&gt;Advanced digital certificate capabilities allow you to create, sign, and manage X.509 digital certificates. Become your own certificate authority. &lt;/li&gt;
+&lt;li&gt;Licensed by the US Government for export (ECCN classification). &lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done. Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations. &lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledgebase. &lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/ipworks/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/ipworks/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/ipworks/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 13:53:38 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4757760 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-ssl#comments</comments>
+  </item>
+  <item>
+    <title>IPWorks EDIFACT</title>
+    <link>http://marketplace.eclipse.org/content/ipworks-edifact</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/edifact%20land.png&quot; width=&quot;95&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-05-07 11:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22/n%20software%2C%20Inc.%22&quot;&gt;/n software, Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2019-08-12 14:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ihaznedari/listings&quot; title=&quot;Irida Haznedari&quot;&gt;Irida Haznedari&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The IPWorks EDIFACT library provides the utmost in flexibility for developers and businesses interested in enabling their software systems with Internet EDI (EDIFACT) parsing and message generation capabilities. IPWorks EDIFACT is offered in a Java edition that provides seamless integration with popular development environments like Eclipse.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nsoftware.com/in/edifact/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edifact/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EDIFACT Parsing and Translation Components&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IPWorks EDIFACT includes software components that facilitate Electronic Data Interchange (EDIFACT) parsing, translation, and transformation. The components include flexible schema support enabling developers to use various schema formats, allowing for easier integration with existing EDI processing applications.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Includes extensive pure Java demo applications.&lt;/li&gt;
+&lt;li&gt;Read and write any EDIFACT document.&lt;/li&gt;
+&lt;li&gt;Navigate documents using XPath notation.&lt;/li&gt;
+&lt;li&gt;Stream support for large files.&lt;/li&gt;
+&lt;li&gt;Translate EDIFACT to and from XML or JSON.&lt;/li&gt;
+&lt;li&gt;A complete unified framework with a common, easy-to-learn object model and simplified interfaces that help you get more done.&lt;/li&gt;
+&lt;li&gt;Support for all major schema standard (BizTalk, SEF, Bots, Altova, and more.&lt;/li&gt;
+&lt;li&gt;Components are thread-safe on critical members.&lt;/li&gt;
+&lt;li&gt;Fast, robust, reliable - the components consume minimal resources.&lt;/li&gt;
+&lt;li&gt;Native development components for all supported platforms and component technologies.&lt;/li&gt;
+&lt;li&gt;Rigorously tested, rock-solid components that have undergone hundreds of thousands of hours of testing both internally by our QA team and externally through customer installations.&lt;/li&gt;
+&lt;li&gt;Detailed reference documentation, sample applications, fully-indexed help files, and an extensive online knowledge-base.&lt;/li&gt;
+&lt;li&gt;Backed by multi-tier professional support, including free email support and enterprise-level paid support.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information, please visit &lt;a href=&quot;https://www.nsoftware.com/in/edifact/&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edifact/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download the free trial at &lt;a href=&quot;https://www.nsoftware.com/in/edifact/download.aspx&quot; rel=&quot;nofollow&quot;&gt;https://www.nsoftware.com/in/edifact/download.aspx&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 Aug 2019 18:21:04 +0000</pubDate>
+ <dc:creator>ihaznedari</dc:creator>
+ <guid isPermaLink="false">4758030 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ipworks-edifact#comments</comments>
+  </item>
+  </channel>
+</rss>

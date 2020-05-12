@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyRunner" project="justEat.qa.com" tests="3" started="3" failures="0" errors="2" ignored="2">
+  <testsuite name="Runner.MyRunner" time="0.015">
+    <testsuite name="Feature: Order food" time="0.015">
+      <testsuite name="Scenario: Search for restaurants in an area" time="0.005" incomplete="true">
+        <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at StepDefinitions.Step.i_want_food_in(Step.java:23)&#13;
+	at ✽.Given I want food in(OrderFood.feature:4)&#13;
+&#13;
+</error>
+        <testcase name="Given I want food in" classname="Scenario: Search for restaurants in an area" time="0.005">
+          <error>cucumber.api.PendingException: TODO: implement me&#13;
+	at StepDefinitions.Step.i_want_food_in(Step.java:23)&#13;
+	at ✽.Given I want food in(OrderFood.feature:4)&#13;
+&#13;
+</error>
+        </testcase>
+        <testcase name="When I search for restaurants" classname="Scenario: Search for restaurants in an area" time="0.001" ignored="true"/>
+        <testcase name="Then I should see some restaurants in &quot;AR51 1AA&quot;" classname="Scenario: Search for restaurants in an area" time="0.004" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

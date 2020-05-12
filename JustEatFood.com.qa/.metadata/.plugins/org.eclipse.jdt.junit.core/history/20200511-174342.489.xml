@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyRunner" project="justEat.qa.com" tests="3" started="3" failures="0" errors="0" ignored="3">
+  <testsuite name="Runner.MyRunner" time="0.0">
+    <testsuite name="Feature: Order food" time="0.0">
+      <testsuite name="Scenario: Search for restaurants in an area" time="0.0">
+        <testcase name="Given I want food in" classname="Scenario: Search for restaurants in an area" time="0.0" ignored="true"/>
+        <testcase name="When I search for restaurants" classname="Scenario: Search for restaurants in an area" time="0.0" ignored="true"/>
+        <testcase name="Then I should see some restaurants in &quot;AR51 1AA&quot;" classname="Scenario: Search for restaurants in an area" time="0.0" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

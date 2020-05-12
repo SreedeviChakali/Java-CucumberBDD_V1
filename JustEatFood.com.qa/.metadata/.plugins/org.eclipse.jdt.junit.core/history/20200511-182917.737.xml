@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyRunner" project="justEat.qa.com" tests="9" started="9" failures="0" errors="4" ignored="4">
+  <testsuite name="Runner.MyRunner" time="13.704">
+    <testsuite name="Feature: Order food" time="13.704">
+      <testsuite name="Scenario: Search for restaurants in an area" time="13.664">
+        <testcase name="Given I want food in &quot;AR51 1AA&quot;" classname="Scenario: Search for restaurants in an area" time="13.594"/>
+        <testcase name="When I search for restaurants" classname="Scenario: Search for restaurants in an area" time="0.069"/>
+        <testcase name="Then I should see some restaurants in &quot;AR51 1AA&quot;" classname="Scenario: Search for restaurants in an area" time="0.0"/>
+      </testsuite>
+      <testsuite name="Scenario: Search for user given restaurant with delivery option" time="0.004" incomplete="true">
+        <error>java.lang.NullPointerException&#13;
+	at StepDefinitions.Step.restaurants_are_open_in_my_area(Step.java:44)&#13;
+	at ✽.Given restaurants are open in my area(OrderFood.feature:8)&#13;
+&#13;
+</error>
+        <testcase name="Given restaurants are open in my area" classname="Scenario: Search for user given restaurant with delivery option" time="0.004">
+          <error>java.lang.NullPointerException&#13;
+	at StepDefinitions.Step.restaurants_are_open_in_my_area(Step.java:44)&#13;
+	at ✽.Given restaurants are open in my area(OrderFood.feature:8)&#13;
+&#13;
+</error>
+        </testcase>
+        <testcase name="When Pizza Hut - Shell Menu restaurant is open" classname="Scenario: Search for user given restaurant with delivery option" time="0.001" ignored="true"/>
+        <testcase name="Then Check restaurant should have delivery option" classname="Scenario: Search for user given restaurant with delivery option" time="0.0" ignored="true"/>
+      </testsuite>
+      <testsuite name="Scenario: Check if user given restaurant has 5 and above rating then select meal" time="0.0" incomplete="true">
+        <error>java.lang.NullPointerException&#13;
+	at StepDefinitions.Step.pizza_Hut_Shell_Menu_restaurant_has_and_above_rating(Step.java:61)&#13;
+	at ✽.When Pizza Hut - Shell Menu restaurant has 5 and above rating(OrderFood.feature:12)&#13;
+&#13;
+</error>
+        <testcase name="When Pizza Hut - Shell Menu restaurant has 5 and above rating" classname="Scenario: Check if user given restaurant has 5 and above rating then select meal" time="0.0">
+          <error>java.lang.NullPointerException&#13;
+	at StepDefinitions.Step.pizza_Hut_Shell_Menu_restaurant_has_and_above_rating(Step.java:61)&#13;
+	at ✽.When Pizza Hut - Shell Menu restaurant has 5 and above rating(OrderFood.feature:12)&#13;
+&#13;
+</error>
+        </testcase>
+        <testcase name="Then Select meal" classname="Scenario: Check if user given restaurant has 5 and above rating then select meal" time="0.001" ignored="true"/>
+        <testcase name="Then Meal should be added to Basket" classname="Scenario: Check if user given restaurant has 5 and above rating then select meal" time="0.019" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

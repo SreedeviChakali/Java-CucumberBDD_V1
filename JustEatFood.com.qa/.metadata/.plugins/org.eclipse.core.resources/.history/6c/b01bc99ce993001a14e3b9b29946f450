@@ -1,0 +1,42 @@
+package StepDefinitions;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+import cucumber.api.PendingException;
+import cucumber.api.java.Before;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.When;
+import cucumber.api.java.en.Then;
+
+public class Step { 
+	WebDriver driver;
+		
+	@Given("^I want food in$")
+	public void i_want_food_in(String arg1)  {
+		System.setProperty("webdriver.gecko.driver","C:\\Users\\cchimman\\Downloads\\geckodriver.exe");
+		driver = new FirefoxDriver();
+		String URL = "http://www.just-eat.co.uk/";
+		driver.get(URL);
+		driver.manage().window().maximize();
+		driver.findElement(By.xpath("//*[@class='Form_c-search-input_3ySg3']")).sendKeys("AR51 1AA");
+		
+	   
+	}
+
+	@When("^I search for restaurants$")
+	public void i_search_for_restaurants() throws Throwable {
+		driver.findElement(By.xpath("//*[@class='Form_c-search-btn-text_6RDDX']")).click();
+	    throw new PendingException();
+	}
+
+	@Then("^I should see some restaurants in \"([^\"]*)\"$")
+	public void i_should_see_some_restaurants_in(String arg1) throws Throwable {
+		String SearchCount = driver.findElement(By.xpath("//*[@class='c-searchHeader']/span[2]")).getText();
+	    throw new PendingException();
+	}
+
+
+
+}
